@@ -7,7 +7,8 @@ description: >-
   Claude reads the verdict and the conditions that would flip it. Use when the
   user wants honest pushback instead of agreement, says Claude just agrees with
   everything, asks "is this a good idea", wants an idea, plan, pitch or claim
-  stress-tested, or says "court" or "put it on trial".
+  stress-tested, or says "court" or "put it on trial". Also use when the user
+  says 「陪審團」 (e.g. 「陪審團：...」, 「叫陪審團」, 「開庭」, 「審判這個想法」).
 argument-hint: "[--jury N | --quick] [--seed S] <the idea, plan or claim>"
 license: MIT
 metadata:
